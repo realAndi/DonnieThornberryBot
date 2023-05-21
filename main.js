@@ -66,7 +66,6 @@ client.on('message', async (msg) => {
 			.setColor("#0099ff")
 			.setTitle("Donnie Thornberry")
 			.setAuthor(
-				"Bot by shaftAndi#5802",
 				"https://cdn.discordapp.com/avatars/571412838388727809/532a483b9c1fc768d1d5a1d4b0c9d4ee.webp?size=128"
 			)
 			.setDescription(
